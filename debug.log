@@ -1,0 +1,4 @@
+[1112/133800.687:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\temp\settings.dat: Odmowa dostêpu. (0x5)
+[1112/133800.689:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[1112/133800.701:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[1112/133800.702:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\temp\settings.dat: Odmowa dostêpu. (0x5)
